@@ -1,0 +1,25 @@
+{
+  "name": "menu-santo-hostel",
+  "version": "0.0.0",
+  "private": true,
+  "description": "```bash npm install npm run dev ```",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.0.13"
+  }
+}
